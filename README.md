@@ -50,6 +50,7 @@ Name  |  Description
 [OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk) | free courseware, requires account
 [SecurityTube](http://www.securitytube.net/) | tube-styled content, "megaprimer" videos covering various topics, no readable content on site.
 [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) | academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings
+[CyberSec WTF](https://cybersecurity.wtf) | CyberSec WTF Web Hacking Challenges from Bounty write-ups
 
 ### YouTube Channels
 Name  |  Description
@@ -200,6 +201,8 @@ Name    |    Description
 [Stripe CTF 2.0](https://github.com/stripe-ctf) | Past security contest where you can discover and exploit vulnerabilities in mock web applications.
 [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation
 [Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for beggainers
+[Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
+[Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
 
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
@@ -228,6 +231,7 @@ Name    |     Description
 [reversing.kr challenges](http://www.reversing.kr/challenge.php) | reverse engineering challenges varying in difficulty
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
+[Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
 
 ### Privilege Escalation
 Name    |    Description
@@ -304,6 +308,7 @@ Name    |    Description
 [Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
 [LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
 [Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
+[Pentoo](https://www.pentoo.ch/) | pentesting OS based on Gentoo
 
 ### Exploits
 Name    |   Description
@@ -322,7 +327,8 @@ Name    |    Description
 [EAST Exploit database](http://eastexploits.com/) | exploit DB for commercial exploits written for EAST Pentest Framework
 [Greysec](https://greysec.net) | hacking and security forum
 [Hackforums](https://hackforums.net/) | posting webstite for hacks/exploits/various discussion
-
+[4Hat Day](http://4hatday.com) | brazilian based hacker forum
+[CaveiraTech](https://caveiratech.com/forum) |  brazilian based, general hacker forum
 
 
 ### Archived Security Conference Videos
