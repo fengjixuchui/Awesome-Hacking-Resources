@@ -1,6 +1,6 @@
 <h1 align="center">
  	<br>
- 	  <img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+ 	  <img width="200" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg" alt="awesome">
  	<br>
 </h1>
 
@@ -37,7 +37,6 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
 ### Learning the Skills
 Name  |  Description
 ----  |  ----
-[BadBinaries.com](https://www.badbinaries.com) | a simple opendir full of quality docs and notes on a variety of security topics; good walkthroughs on malware trafic analysis and sysadmin stuff.
 [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) | academic content, full semester course, includes assigned readings, homework and github refs for exploit examples. NO VIDEO LECTURES.
 [CyberSec WTF](https://cybersecurity.wtf) | CyberSec WTF Web Hacking Challenges from Bounty write-ups
 [Cybrary](https://www.cybrary.it/) | coursera style website, lots of user-contributed content, account required, content can be filtered by experience level
@@ -156,6 +155,7 @@ Name  |  Description
 [Derek Rook - CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA) | lots of lengthy screenshot instructional vids, with
 [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
 [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
+[The Daily Swig](https://portswigger.net/daily-swig) | Latest Cybersecurity News
 
 ### Sharpening Your Skills
 Name    |    Description
@@ -199,14 +199,15 @@ Name    |    Description
 [Solve Me](http://solveme.safflower.kr/) | "yet another challenge", account required.
 [Vulnhub](https://www.vulnhub.com/) | site hosts a ton of different vulnerable Virtual Machine images, download and get hacking
 [websec.fr](https://websec.fr/) | Focused on web challenges, registration is optional.
+[tryhackme](https://tryhackme.com) | Awesome platform to start learning cybersecurity, account is needed
 [webhacking.kr](https://webhacking.kr) | lots of web security challenges are available, recommended for beginners. You need to solve a simple challenge to sign up.
 [Stereotyped Challenges](https://chall.stypr.com/) | Challenges for web security professionals, account required.
 [Stripe CTF 2.0](https://github.com/stripe-ctf) | Past security contest where you can discover and exploit vulnerabilities in mock web applications.
 [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation
-[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for beggainers
+[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for begginers
 [Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
 [Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
-
+[Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
 ----    |    ----
@@ -308,6 +309,7 @@ Name    |    Description
 [BackBox](https://backbox.org/index) | open source community project, promoting security in IT enivornments
 [BlackArch](https://blackarch.org/index.html) | Arch Linux based pentesting distro, compatible with Arch installs
 [Bugtraq](http://bugtraq-team.com/) | advanced GNU Linux pen-testing technology
+[Docker for pentest](https://github.com/aaaguirrep/pentest) | Image with the more used tools to create a pentest environment easily and quickly.
 [Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
 [LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
 [Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
